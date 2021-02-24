@@ -135,14 +135,6 @@ button:hover{
     background-color: green;
 }
 
-/* @media screen and (max-width: 768){
-    .body_content{
-        flex-direction: column;
-    }
-    .vertical_line{
-        display: none;
-    }
-} */
 
 /* --------footer--------- */
  .footer{
